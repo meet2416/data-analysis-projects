@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduction
+#### Introduction
 
 This analysis attempts to predict the probability for survival of the Titanic passengers. In order to do this, we will use the different features available about the passengers, and based on the relationship between the attributes and the survivors we try to formulate the chances of a passenger surviving.
 
